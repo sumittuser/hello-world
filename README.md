@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing GitHub Flow
+My name is Sumit.
+I am studying BSc IT.
+This is my GitHub practical.
